@@ -1,12 +1,29 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
 h1 {
     text-align: center;
+    color: rgb(26, 25, 25);
 }
 
-.link-container {
+h3 {
+    text-align: center;
+    font-size: 24px;
+}
+
+.container {
     text-align: center;
 }
 
-.link-container a {
+.container a {
     color: rgb(22, 157, 247);
     font-size: 18px;
+}
+
+.image {
+    width: 650px;
+    height: auto;
 }
